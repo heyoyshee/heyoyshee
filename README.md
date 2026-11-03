@@ -14,7 +14,7 @@
 - 💬 Ask me about **Python, ML, C/C++, or web dev**
 - 🎯 Goal: build useful, well-documented projects and keep learning every day
 
----
+<p align="center"> <a href="https://github.com/heyoyshee"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Learning+Machine+Learning+%F0%9F%A4%96;Exploring+Deep+Learning+%F0%9F%A7%A0;Building+with+Python+%F0%9F%90%8D;Curious+about+Generative+AI+%E2%9C%A8;Always+learning%2C+always+growing+%F0%9F%8C%B1" alt="Typing animation" /> </a> </p>
 
 ## 🛠️ Languages & Tools
 
