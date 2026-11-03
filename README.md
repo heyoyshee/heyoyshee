@@ -37,13 +37,13 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=heyoyshee&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heyoyshee&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
+## 📊 GitHub Stats
 
----
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=heyoyshee&show_icons=true&theme=tokyonight&hide_border=true)
 
+## 💻 Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=heyoyshee&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 ## 📫 How to Reach Me
 
 - 📧 Email:nusraatoishe00@gmail.com
