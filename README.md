@@ -46,7 +46,7 @@
 
 ## 📫 How to Reach Me
 
-- 📧 Email: [YOUR-EMAIL@gmail.com](mailto:YOUR-EMAIL@gmail.com)
+- 📧 Email:nusraatoishe00@gmail.com
 
 ## 🌐 Connect with Me
 
