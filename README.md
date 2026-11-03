@@ -4,7 +4,7 @@
   <i>CS student • Machine Learning & Deep Learning enthusiast • Problem solver</i>
 </p>
 
----
+
 
 ## 🙋‍♀️ About Me
 
@@ -41,7 +41,7 @@
 | [Generative_AI](https://github.com/heyoyshee/Generative_AI) | Generative AI learning, following freeCodeCamp |
 | [JavaScript](https://github.com/heyoyshee/JavaScript) | JavaScript practice and mini projects |
 
----
+
 
 ## 📊 GitHub Stats
 
@@ -56,15 +56,8 @@
 
 ## 🌐 Connect with Me
 
-<p>
-  <a href="https://www.linkedin.com/in/nusraat-jahan-oishee-a59792327/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.kaggle.com/nusraatoyshe">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
-  </a>
-</p>
+
 <p> <a href="https://github.com/heyoyshee"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </a> <a href="https://www.linkedin.com/in/nusraat-jahan-oishee-a59792327/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="https://www.kaggle.com/nusraatoyshe"> <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /> </a> </p>
----
+
 
 <p align="center">⭐ Thanks for stopping by! ⭐</p>
