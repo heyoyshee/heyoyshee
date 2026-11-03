@@ -22,12 +22,15 @@
   <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,java,python,go,django,mysql,postgres,tensorflow" alt="Languages and tools" />
 </p>
 
+
 🌱 Currently Learning
 <p> <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Deep Learning" /> <img src="https://img.shields.io/badge/Generative%20AI-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI" /> <img src="https://img.shields.io/badge/Data%20Preprocessing-3776AB?style=for-the-badge&logo=pandas&logoColor=white" alt="Data Preprocessing" /> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" /> </p>
 
 
+
 🧰 ML Toolkit
 <p> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" /> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" /> <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn" /> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" /> <img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat-square" alt="Matplotlib" /> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /> </p>
+
 
 ## 📌 Featured Projects
 
@@ -50,8 +53,6 @@
 ![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=heyoyshee&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 - 📧 Email:nusraatoishe00@gmail.com
 
-- 💭 Quote of the Day
-<p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" /> </p>
 
 ## 🌐 Connect with Me
 
