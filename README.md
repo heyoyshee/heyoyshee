@@ -20,7 +20,7 @@
 🌱 Currently Learning
 <p> <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Deep Learning" /> <img src="https://img.shields.io/badge/Generative%20AI-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI" /> <img src="https://img.shields.io/badge/Data%20Preprocessing-3776AB?style=for-the-badge&logo=pandas&logoColor=white" alt="Data Preprocessing" /> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" /> </p>
 
-🛠️ Languages & Tools
+
 
 💻 Programming Languages
 <p> <img src="https://skillicons.dev/icons?i=c,cpp,java,python,go,js" alt="Programming languages" /> </p>
