@@ -67,5 +67,4 @@
 
 <p> <a href="https://github.com/heyoyshee"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </a> <a href="https://www.linkedin.com/in/nusraat-jahan-oishee-a59792327/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="https://www.kaggle.com/nusraatoyshe"> <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /> </a> </p>
 
-
-<p align="center">⭐ Thanks for stopping by! ⭐</p>
+<p align="center"> <b>Thanks for visiting my profile!</b><br /> <sub>Open to learning, collaboration, and new ideas. Feel free to reach out.</sub> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:36BCF7&height=100&section=footer" alt="Footer" /> </p>
