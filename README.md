@@ -21,11 +21,25 @@
 🌱 Currently Learning
 <p> <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Deep Learning" /> <img src="https://img.shields.io/badge/Generative%20AI-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI" /> <img src="https://img.shields.io/badge/Data%20Preprocessing-3776AB?style=for-the-badge&logo=pandas&logoColor=white" alt="Data Preprocessing" /> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" /> </p>
 
+🛠️ Languages & Tools
 
+💻 Programming Languages
+<p> <img src="https://skillicons.dev/icons?i=c,cpp,java,python,go,js" alt="Programming languages" /> </p>
 
-🧰 ML Toolkit
-<p> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" /> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" /> <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn" /> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" /> <img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat-square" alt="Matplotlib" /> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /> </p>
+🐍 Python & Machine Learning
+<p> <img src="https://skillicons.dev/icons?i=python,numpy,pandas,sklearn,tensorflow" alt="Python and ML" /> <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge" alt="Matplotlib" /> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" /> </p>
 
+🌐 Web Development (Frontend)
+<p> <img src="https://skillicons.dev/icons?i=html,css,js" alt="Frontend" /> </p>
+
+⚙️ Backend
+<p> <img src="https://skillicons.dev/icons?i=django,python,go" alt="Backend" /> </p>
+
+🗄️ Databases
+<p> <img src="https://skillicons.dev/icons?i=mysql,postgres" alt="Databases" /> </p>
+
+🔧 Dev Tools
+<p> <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Dev tools" /> </p>
 
 ## 📌 Featured Projects
 
