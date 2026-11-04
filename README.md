@@ -27,7 +27,7 @@
 <p> <img src="https://skillicons.dev/icons?i=c,cpp,java,python,go,js" alt="Programming languages" /> </p>
 
 🐍 Python & Machine Learning
-<p> <img src="https://skillicons.dev/icons?i=python,numpy,pandas,sklearn,tensorflow" alt="Python and ML" /> <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge" alt="Matplotlib" /> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" /> </p>
+<p> <img src="https://skillicons.dev/icons?i=python,numpy,pandas,sklearn,tensorflow" alt="Python and ML" /> </p> <p> <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge" alt="Matplotlib" /> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" /> </p>
 
 🌐 Web Development (Frontend)
 <p> <img src="https://skillicons.dev/icons?i=html,css,js" alt="Frontend" /> </p>
